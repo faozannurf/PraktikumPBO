@@ -1,5 +1,5 @@
 
-package com.nurfaozan.praktikumpbo1.pertemuan4;
+package com.nurfaozan.praktikumpbo1.pertemuan4.kendaraan;
 
 public class Mobil extends Kendaraan{
     int maxGear;

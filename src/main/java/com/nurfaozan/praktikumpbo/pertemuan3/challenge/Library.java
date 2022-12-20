@@ -15,7 +15,7 @@ public class Library {
         this.yearBuilt = yearBuilt;
     }
     
-    public void showProfile(String nama){
+    public void showProfile(){
         System.out.println("Nama: " + nama);
         System.out.println("Visitors Today : " + visitorsToday);
         System.out.println("year Built : " + yearBuilt);

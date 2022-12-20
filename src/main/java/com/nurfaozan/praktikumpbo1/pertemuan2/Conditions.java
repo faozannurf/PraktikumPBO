@@ -2,7 +2,8 @@ package com.nurfaozan.praktikumpbo1.pertemuan2;
 
 import java.util.Scanner;
 
-Public class Conditions {
+public class Conditions {
+    
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     
